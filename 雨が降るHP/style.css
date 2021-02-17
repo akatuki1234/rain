@@ -1,0 +1,451 @@
+body{
+  /* background-color: cornflowerblue; */
+  background-image: linear-gradient(#000033,#003399, #000033);
+  width: 100%;
+  height: 600px;
+  margin: 0;
+  padding: 0;
+}
+.rain1{
+  display: inline-block;
+  background-color: skyblue;
+  border: 2px solid white;
+  border-radius: 0px 40px 30px 40px;
+  width: 25px;
+  height: 25px;
+  margin: 10px;
+  transform: rotate(45deg);
+  position: absolute;
+  top: 0px;
+  animation-name: raindown;
+  animation-duration: 2s;
+  animation-delay: 0s;
+  animation-fill-mode: backwards;
+  animation-iteration-count: infinite;
+  
+}
+.rain2{
+  display: inline-block;
+  background-color: skyblue;
+  border: 2px solid white;
+  border-radius: 0px 40px 30px 40px;
+  width: 25px;
+  height: 25px;
+  margin:10px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(45deg);
+  animation-name: raindown;
+  animation-duration: 2s;
+  animation-delay: 0.5s;
+  animation-fill-mode: backwards;
+  animation-iteration-count: infinite;
+
+}
+.rain3{
+  display: inline-block;
+  background-color: skyblue;
+  border: 2px solid white;
+  border-radius: 0px 40px 30px 40px;
+  width: 25px;
+  height: 25px;
+  margin:10px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(45deg);
+  animation-name: raindown;
+  animation-duration: 2s;
+  animation-delay: 2s;
+  animation-fill-mode: backwards;
+  /* animation-fill-mode: forwards; */
+  animation-iteration-count: infinite;
+}
+.rain4{
+  display: inline-block;
+  background-color: skyblue;
+  border: 2px solid white;
+  border-radius: 0px 40px 30px 40px;
+  width: 25px;
+  height: 25px;
+  margin:10px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(45deg);
+  animation-name: raindown;
+  animation-duration: 2s;
+  animation-delay: 2.5s;
+  animation-fill-mode: backwards;
+  animation-iteration-count: infinite;
+}
+.rain5{
+  display: inline-block;
+  background-color: skyblue;
+  border: 2px solid white;
+  border-radius: 0px 40px 30px 40px;
+  width: 25px;
+  height: 25px;
+  margin:10px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(45deg);
+  animation-name: raindown;
+  animation-duration: 2s;
+  animation-delay: 3s;
+  animation-fill-mode: backwards;
+  animation-iteration-count: infinite;
+}
+.rain6{
+  display: inline-block;
+  background-color: skyblue;
+  border: 2px solid white;
+  border-radius: 0px 40px 30px 40px;
+  width: 25px;
+  height: 25px;
+  margin:10px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(45deg);
+  animation-name: raindown;
+  animation-duration: 2s;
+  animation-delay: 2.5s;
+  animation-fill-mode: backwards;
+  animation-iteration-count: infinite;
+}
+.rain6{
+  display: inline-block;
+  background-color: skyblue;
+  border: 2px solid white;
+  border-radius: 0px 40px 30px 40px;
+  width: 25px;
+  height: 25px;
+  margin:10px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(45deg);
+  animation-name: raindown;
+  animation-duration: 2s;
+  animation-delay: 2s;
+  animation-fill-mode: backwards;
+  animation-iteration-count: infinite;
+}
+.rain7{
+  display: inline-block;
+  background-color: skyblue;
+  border: 2px solid white;
+  border-radius: 0px 40px 30px 40px;
+  width: 25px;
+  height: 25px;
+  margin:10px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(45deg);
+  animation-name: raindown;
+  animation-duration: 2s;
+  animation-delay: 1.5s;
+  animation-fill-mode: backwards;
+  animation-iteration-count: infinite;
+}
+.rain8{
+  display: inline-block;
+  background-color: skyblue;
+  border: 2px solid white;
+  border-radius: 0px 40px 30px 40px;
+  width: 25px;
+  height: 25px;
+  margin:10px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(45deg);
+  animation-name: raindown;
+  animation-duration: 2s;
+  animation-delay: 1.0s;
+  animation-fill-mode: backwards;
+  animation-iteration-count: infinite;
+}
+.rain9{
+  display: inline-block;
+  background-color: skyblue;
+  border: 2px solid white;
+  border-radius: 0px 40px 30px 40px;
+  width: 25px;
+  height: 25px;
+  margin:10px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(45deg);
+  animation-name: raindown;
+  animation-duration: 2s;
+  animation-delay: 0.5s;
+  animation-fill-mode: backwards;
+  animation-iteration-count: infinite;
+}
+.rain10{
+  display: inline-block;
+  background-color: skyblue;
+  border: 2px solid white;
+  border-radius: 0px 40px 30px 40px;
+  width: 25px;
+  height: 25px;
+  margin:10px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(45deg);
+  animation-name: raindown;
+  animation-duration: 2s;
+  animation-delay: 0s;
+  animation-fill-mode: backwards;
+  animation-iteration-count: infinite;
+}
+.rain11{
+  display: inline-block;
+  background-color: skyblue;
+  border: 2px solid white;
+  border-radius: 0px 40px 30px 40px;
+  width: 25px;
+  height: 25px;
+  margin:10px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(45deg);
+  animation-name: raindown;
+  animation-duration: 2s;
+  animation-delay: 0.5s;
+  animation-fill-mode: backwards;
+  animation-iteration-count: infinite;
+}
+.rain12{
+  display: inline-block;
+  background-color: skyblue;
+  border: 2px solid white;
+  border-radius: 0px 40px 30px 40px;
+  width: 25px;
+  height: 25px;
+  margin:10px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(45deg);
+  animation-name: raindown;
+  animation-duration: 2s;
+  animation-delay: 1s;
+  animation-fill-mode: backwards;
+  animation-iteration-count: infinite;
+}
+.rain13{
+  display: inline-block;
+  background-color: skyblue;
+  border: 2px solid white;
+  border-radius: 0px 40px 30px 40px;
+  width: 25px;
+  height: 25px;
+  margin:10px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(45deg);
+  animation-name: raindown;
+  animation-duration: 2s;
+  animation-delay: 1.5s;
+  animation-fill-mode: backwards;
+  animation-iteration-count: infinite;
+}
+.rain14{
+  display: inline-block;
+  background-color: skyblue;
+  border: 2px solid white;
+  border-radius: 0px 40px 30px 40px;
+  width: 25px;
+  height: 25px;
+  margin:10px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(45deg);
+  animation-name: raindown;
+  animation-duration: 2s;
+  animation-delay: 2s;
+  animation-fill-mode: backwards;
+  animation-iteration-count: infinite;
+}
+.rain16{
+  display: inline-block;
+  background-color: skyblue;
+  border: 2px solid white;
+  border-radius: 0px 40px 30px 40px;
+  width: 25px;
+  height: 25px;
+  margin:10px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(45deg);
+  animation-name: raindown;
+  animation-duration: 2s;
+  animation-delay: 2.5s;
+  animation-fill-mode: backwards;
+  animation-iteration-count: infinite;
+}
+.rain17{
+  display: inline-block;
+  background-color: skyblue;
+  border: 2px solid white;
+  border-radius: 0px 40px 30px 40px;
+  width: 25px;
+  height: 25px;
+  margin:10px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(45deg);
+  animation-name: raindown;
+  animation-duration: 2s;
+  animation-delay: 3s;
+  animation-fill-mode: backwards;
+  animation-iteration-count: infinite;
+}
+.rain18{
+  display: inline-block;
+  background-color: skyblue;
+  border: 2px solid white;
+  border-radius: 0px 40px 30px 40px;
+  width: 25px;
+  height: 25px;
+  margin:10px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(45deg);
+  animation-name: raindown;
+  animation-duration: 2s;
+  animation-delay: 2.5s;
+  animation-fill-mode: backwards;
+  animation-iteration-count: infinite;
+}
+.rain19{
+  display: inline-block;
+  background-color: skyblue;
+  border: 2px solid white;
+  border-radius: 0px 40px 30px 40px;
+  width: 25px;
+  height: 25px;
+  margin:10px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(45deg);
+  animation-name: raindown;
+  animation-duration: 2s;
+  animation-delay: 2s;
+  animation-fill-mode: backwards;
+  animation-iteration-count: infinite;
+}
+.rain20{
+  display: inline-block;
+  background-color: skyblue;
+  border: 2px solid white;
+  border-radius: 0px 40px 30px 40px; 
+  width: 25px;
+  height: 25px;
+  margin:10px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(45deg);
+  animation-name: raindown;
+  animation-duration: 2s;
+  animation-delay: 1.5s;
+  animation-fill-mode: backwards;
+  animation-iteration-count: infinite;
+}
+#rain1{
+  position: absolute;
+  top: -500px;
+  left:  50px;
+} 
+ #rain2{
+  position: relative;
+  top: -500px;
+  left: -500px;
+} 
+ #rain3{
+  position: relative;
+  top: -500px;
+  left: 10;
+} 
+ #rain4{
+  position: relative;
+  top: -500px;
+  right:  100px;
+} 
+ #rain5{
+  position: relative;
+  top: -500px;
+  right:  -100px;
+} 
+ #rain6{
+  position: relative;
+  top: -500px;
+  right:  -200px;
+} 
+#rain7{
+  position: relative;
+  top: -500px;
+  right:  -300px;
+}
+#rain8{
+  position: relative;
+  top: -500px;
+  right:  -400px;
+}
+#rain9{
+  position: relative;
+  top: -500px;
+  left:  -300px;
+}
+#rain10{
+  position: relative;
+  top: -500px;
+  left:  -100px;
+} 
+ #rain11{
+  position: relative;
+  top: -700px;
+  left:  -400px;
+}
+#rain12{
+  position: relative;
+  top: -700px;
+  left:  -200px;
+}
+#rain13{
+  position: relative;
+  top: -700px;
+  left:  125px;
+}
+#rain14{
+  position: relative;
+  top: -700px;
+  left:  -225px;
+}
+#rain15{
+  position: relative;
+  top: -700px;
+  left:  -300px;
+} 
+#rain16{
+  position: relative;
+  top: -700px;
+  left:  200px;
+} 
+#rain17{
+  position: relative;
+  top: -700px;
+  left:  -600px;
+} 
+#rain18{
+  position: relative;
+  top: -700px;
+  left:  -500px;
+} 
+#rain19{
+  position: relative;
+  top: -700px;
+  left:  -300px;
+} 
+#rain20{
+  position: relative;
+  top: -700px;
+  left:  125px;
+} 
